@@ -1,2 +1,2 @@
 # dio-gft-net
-Repositorio para o bootvamp GFT
+Repositorio para o bootcamp GFT
